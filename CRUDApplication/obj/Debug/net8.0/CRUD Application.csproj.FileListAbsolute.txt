@@ -1,0 +1,15 @@
+D:\Backend\CIS\CRUD Application\bin\Debug\net8.0\CRUD Application.exe
+D:\Backend\CIS\CRUD Application\bin\Debug\net8.0\CRUD Application.deps.json
+D:\Backend\CIS\CRUD Application\bin\Debug\net8.0\CRUD Application.runtimeconfig.json
+D:\Backend\CIS\CRUD Application\bin\Debug\net8.0\CRUD Application.dll
+D:\Backend\CIS\CRUD Application\bin\Debug\net8.0\CRUD Application.pdb
+D:\Backend\CIS\CRUD Application\obj\Debug\net8.0\CRUD Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\CIS\CRUD Application\obj\Debug\net8.0\CRUD Application.AssemblyInfoInputs.cache
+D:\Backend\CIS\CRUD Application\obj\Debug\net8.0\CRUD Application.AssemblyInfo.cs
+D:\Backend\CIS\CRUD Application\obj\Debug\net8.0\CRUD Application.csproj.CoreCompileInputs.cache
+D:\Backend\CIS\CRUD Application\obj\Debug\net8.0\CRUD Application.sourcelink.json
+D:\Backend\CIS\CRUD Application\obj\Debug\net8.0\CRUD Application.dll
+D:\Backend\CIS\CRUD Application\obj\Debug\net8.0\refint\CRUD Application.dll
+D:\Backend\CIS\CRUD Application\obj\Debug\net8.0\CRUD Application.pdb
+D:\Backend\CIS\CRUD Application\obj\Debug\net8.0\CRUD Application.genruntimeconfig.cache
+D:\Backend\CIS\CRUD Application\obj\Debug\net8.0\ref\CRUD Application.dll

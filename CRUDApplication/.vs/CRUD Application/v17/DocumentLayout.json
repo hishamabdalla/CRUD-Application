@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backend\\CIS\\CRUD Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|d:\\backend\\cis\\crud application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|D:\\Backend\\CIS\\CRUD Application\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|D:\\Backend\\CIS\\CRUD Application\\createstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|solutionrelative:createstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|D:\\Backend\\CIS\\CRUD Application\\createinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|solutionrelative:createinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|D:\\Backend\\CIS\\CRUD Application\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|solutionrelative:instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|D:\\Backend\\CIS\\CRUD Application\\intcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|solutionrelative:intcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|D:\\Backend\\CIS\\CRUD Application\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1411A7BB-C28B-40D6-A553-F5CB33E304D5}|CRUD Application.csproj|solutionrelative:icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Backend\\CIS\\CRUD Application\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\Backend\\CIS\\CRUD Application\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:41:35.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backend\\CIS\\CRUD Application\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Backend\\CIS\\CRUD Application\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAgwAUBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:59:10.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IntCheck.cs",
+              "DocumentMoniker": "D:\\Backend\\CIS\\CRUD Application\\IntCheck.cs",
+              "RelativeDocumentMoniker": "IntCheck.cs",
+              "ToolTip": "D:\\Backend\\CIS\\CRUD Application\\IntCheck.cs",
+              "RelativeToolTip": "IntCheck.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:31:28.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\Backend\\CIS\\CRUD Application\\Instructor.cs",
+              "RelativeDocumentMoniker": "Instructor.cs",
+              "ToolTip": "D:\\Backend\\CIS\\CRUD Application\\Instructor.cs",
+              "RelativeToolTip": "Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:10:16.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateInstructor.cs",
+              "DocumentMoniker": "D:\\Backend\\CIS\\CRUD Application\\CreateInstructor.cs",
+              "RelativeDocumentMoniker": "CreateInstructor.cs",
+              "ToolTip": "D:\\Backend\\CIS\\CRUD Application\\CreateInstructor.cs",
+              "RelativeToolTip": "CreateInstructor.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAIwEgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:42:22.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICRUD.cs",
+              "DocumentMoniker": "D:\\Backend\\CIS\\CRUD Application\\ICRUD.cs",
+              "RelativeDocumentMoniker": "ICRUD.cs",
+              "ToolTip": "D:\\Backend\\CIS\\CRUD Application\\ICRUD.cs",
+              "RelativeToolTip": "ICRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:11:49.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateStudent.cs",
+              "DocumentMoniker": "D:\\Backend\\CIS\\CRUD Application\\CreateStudent.cs",
+              "RelativeDocumentMoniker": "CreateStudent.cs",
+              "ToolTip": "D:\\Backend\\CIS\\CRUD Application\\CreateStudent.cs",
+              "RelativeToolTip": "CreateStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:42:24.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
